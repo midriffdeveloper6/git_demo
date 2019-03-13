@@ -284,24 +284,7 @@
 											<li>
 												<a href-void>2</a>
 											</li>
-											<li>
-												<a href-void>3</a>
-											</li>
-											<li class="next">
-												<a href-void>Next</a>
-											</li>
-										</ul></td>
-									</tr>
-								</tfoot>
-							</table>
-
-							<!-- end content -->
-
-						</div>
-
-					</div>
-					<!-- end widget div -->
-				</div>
+							
 				<!-- end widget -->
 
 				<!-- new widget -->
